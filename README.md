@@ -35,7 +35,7 @@ Scaled up the current ETL pipeline by moving the data warehouse to a data lake. 
 
 Technologies used: Spark, S3, EMR, Athena, Amazon Glue, Parquet.
 
-## Project 5: [Data Pipelines - Airflow]
+## Project 5: [Data Pipelines - Airflow](https://github.com/nareshk1290/Udacity-Data-Engineering/tree/master/Data%20Pipeline%20with%20Airflow/Project%20Data%20Pipeline%20with%20Airflow)
 Automate the ETL pipeline and creation of data warehouse using Apache Airflow. Skills include:
 * Using Airflow to automate ETL pipelines using Airflow, Python, Amazon Redshift.
 * Writing custom operators to perform tasks such as staging data, filling the data warehouse, and validation through data quality checks.
