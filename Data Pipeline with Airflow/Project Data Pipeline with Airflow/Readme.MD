@@ -1,4 +1,4 @@
-<b>Project:</b> Data Lake
+<b>Project:</b> Data Pipeline with Airflow
 
 <b>Introduction</b>
 
@@ -57,6 +57,6 @@ For example one test could be a SQL statement that checks if certain column cont
 
 <b>Final Instructions</b>
 
-When you are in the workspace, after completing the code, you can start by using the command : /opt/airlfow/start.sh
+When you are in the workspace, after completing the code, you can start by using the command : /opt/airflow/start.sh
 
 Once you done, it would automatically start all the dags required and outputting the result to its respective tables
