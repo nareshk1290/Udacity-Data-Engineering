@@ -72,7 +72,7 @@ def process_song_data(spark, input_data, output_data):
 
 def process_log_data(spark, input_data, output_data):
      """
-        Description: This function loads log_data from S3 and processes it by extracting the songs and artist tables
+        Description: This function loads log_data from S3 and processes it by extracting the users, time, and songplays tables
         and then again loaded back to S3. Also output from previous function is used in by spark.read.json command
         
         Parameters:
